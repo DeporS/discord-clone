@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ContactorApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ContactorApplication.class, args);
     }
 
